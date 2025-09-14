@@ -171,17 +171,6 @@ curl -X POST http://127.0.0.1:5000/predict/v2 \
 - **Algorithm**: LightGBM with comprehensive hyperparameter tuning
 - **Use Case**: Complex real-world predictions with detailed medical data
 
-## Contributing
-
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/improvement`)
-3. Commit your changes (`git commit -am 'Add new feature'`)
-4. Push to the branch (`git push origin feature/improvement`)
-5. Create a Pull Request
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
 
